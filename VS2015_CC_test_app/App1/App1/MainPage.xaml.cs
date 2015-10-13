@@ -29,7 +29,7 @@ namespace App1
 
         private void ClickMe_Click(object sender, RoutedEventArgs e)
         {
-            this.HelloMessage.Text = "Thanks!";
+            this.HelloMessage.Text = "Thanks!!";
         }
     }
 }
