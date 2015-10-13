@@ -26,5 +26,10 @@ namespace App1
         {
             this.InitializeComponent();
         }
+
+        private void ClickMe_Click(object sender, RoutedEventArgs e)
+        {
+            this.HelloMessage.Text = "Thanks!";
+        }
     }
 }
