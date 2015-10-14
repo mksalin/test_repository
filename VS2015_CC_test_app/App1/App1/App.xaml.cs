@@ -32,8 +32,9 @@ namespace App1
                 Microsoft.ApplicationInsights.WindowsCollectors.Metadata |
                 Microsoft.ApplicationInsights.WindowsCollectors.Session);
             this.InitializeComponent();
-            this.Suspending += OnSuspending;
+            this.Suspending += OnSuspending;            
         }
+
 
         /// <summary>
         /// Invoked when the application is launched normally by the end user.  Other entry points
