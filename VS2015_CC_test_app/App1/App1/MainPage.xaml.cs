@@ -16,6 +16,8 @@ using Windows.UI.Xaml.Navigation;
 using System.Threading;
 using Windows.UI.Core;
 using Windows.System.Threading;
+using Windows.Graphics;
+
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 
@@ -25,12 +27,13 @@ namespace App1
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
+    
     public sealed partial class MainPage : Page
     {
         //private CMySimpleThreadClass threadWorker;
        
         public MainPage()
-        {
+        {           
             this.InitializeComponent();
             // threadWorker = new CMySimpleThreadClass();
 
@@ -64,8 +67,14 @@ namespace App1
         }
 
         private void ClickMe_Click(object sender, RoutedEventArgs e)
-        {
-            this.HelloMessage.Text = "Thanks!!";            
+        {                                    
+            // this.HelloMessage.Text = "Thanks!!";
+            if (HelloMessage.Text == "1")
+                this.myRectangle.Height = 10;
+            else if (HelloMessage.Text == "2")
+                this.myRectangle.Height = 20;
+            else
+                this.myRectangle.Height = 30;
         }
     }
 }
