@@ -3,19 +3,21 @@ import { NavController } from 'ionic-angular';
 
 import { FormBuilder, FormGroup, FormControl } from '@angular/forms';
 
-import { RegisterPage } from '../register/register';
-import { UserPage } from '../user/user';
 import { AuthService } from '../core/auth.service';
+
+import { UserPage } from '../user/user';
+
 
 
 @Component({
-  selector: 'page-login',
-  templateUrl: 'login.html'
+  selector: 'page-register',
+  templateUrl: 'register.html'
 })
-export class LoginPage {
+export class RegisterPage {
 
-  loginForm: FormGroup;
+  registerForm: FormGroup;
   errorMessage: string = '';
+  successMessage: string = '';
 
   constructor(
     public navCtrl: NavController,
@@ -24,21 +26,21 @@ export class LoginPage {
   ) {}
 
   ionViewWillLoad(){
-    this.loginForm = this.formBuilder.group({
+    this.registerForm = this.formBuilder.group({
       email: new FormControl(),
-      password: new FormControl(),
+      password: new FormControl()
     });
   }
 
-  tryLogin(value){
-    this.authService.doLogin(value)
-    .then(res => {
-      console.log(res);
-      this.navCtrl.push(UserPage);
-    }, err => {
-      console.log(err);
-      this.errorMessage = err.message;
-    })
+  tryRegister(value){
+    this.authService.doRegister(value)
+     .then(res => {
+       this.errorMessage = "";
+       this.successMessage = "Your account has been created. Please log in now.";
+     }, err => {
+       this.errorMessage = err.message;
+       this.successMessage = "";
+     })
   }
 /*
   tryFacebookLogin(){
@@ -68,8 +70,8 @@ export class LoginPage {
     });
   }
 */
-  goRegisterPage(){
-    this.navCtrl.push(RegisterPage);
+  goLoginPage(){
+    this.navCtrl.pop();
   }
 
 }

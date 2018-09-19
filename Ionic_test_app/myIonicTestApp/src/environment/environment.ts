@@ -7,5 +7,6 @@ export const environment = {
     projectId: "testproject-c9241",
     storageBucket: "testproject-c9241.appspot.com",
     messagingSenderId: "863924059921"
- }
+ },
+ googleWebClientId: "863924059921-uhhnubdvns6i1k9npe5ccu24kt95te22.apps.googleusercontent.com" 
 };
