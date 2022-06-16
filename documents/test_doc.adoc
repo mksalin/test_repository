@@ -1,0 +1,18 @@
+:doctype: book
+:sectnums:
+:imagesdir: images
+:url-home: https://github.com/mksalin/test_repository/documents/test_doc.adoc 
+:summary: This is test document
+
+= Test Document
+Markku Salin <markku.salin@supponor.com>
+v0.1, 2022-06-16: Initial draft
+:toc: auto
+
+== Introduction
+{summary}
+The is summary for test document.
+
+=== Background
+
+Testing the formatting...
