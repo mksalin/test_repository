@@ -1,0 +1,205 @@
+== Test page for Github links for Confluence
+
+=== ‘Github Issue List’ Macro - Supponor’s repo
+
+Failed to fetch issues content from Github
+
+=== ‘Github Issue List’ Macro - Markku’s public repo
+
+*1 Open*
+
+*0 Closed*
+
+Query:
+https://github.com/mksalin/test_repository/issues?state%3Dall&q=is%3Aissue[state=all]
+
+* https://github.com/mksalin/test_repository/issues/1[*test issue open*]
+
+____
+#1 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/test_repository/issues/1[*0 comments*]
+____
+
+=== ‘Github Issue List’ Macro - Markku’s private repo
+
+state=all
+
+*9 Open*
+
+*0 Closed*
+
+Query:
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues?state%3Dall&q=is%3Aissue[state=all]
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/9[*test
+issue3 - project beta*] v14.2
+
+____
+#9 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/9[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/8[*test
+issue2 - project beta*] v14.1
+
+____
+#8 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/8[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/7[*test
+issue - project beta*] v14.1
+
+____
+#7 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/7[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/6[*test
+issue2 - project2*] v14.2
+
+____
+#6 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/6[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/5[*test
+issue - project2*] TestLabel3 v14.1
+
+____
+#5 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/5[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/4[*test
+issue 3*] TestLabel1 v14.1
+
+____
+#4 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/4[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/3[*test
+issue 4*] TestLabel2 v14.2
+
+____
+#3 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/3[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/2[*test
+issue 2*] TestLabel2 v14.1
+
+____
+#2 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/2[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/1[*test
+issue*] bug TestLabel1 v14.2
+
+____
+#1 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/1[*0
+comments*]
+____
+
+state=open&labels=TestLabel1
+
+*2 Open*
+
+*0 Closed*
+
+Query:
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues?state%3Dopen%26labels%3DTestLabel1&q=is%3Aissue[state=open&labels=TestLabel1]
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/4[*test
+issue 3*] TestLabel1 v14.1
+
+____
+#4 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/4[*0
+comments*]
+____
+
+* https://github.com/mksalin/Full-Stack-Web-Development-course/issues/1[*test
+issue*] bug TestLabel1 v14.2
+
+____
+#1 opened at 06/08/2022 by https://github.com/mksalin[mksalin]
+
+https://github.com/mksalin/Full-Stack-Web-Development-course/issues/1[*0
+comments*]
+____
+
+=== Link to Github issue
+
+Renderer2 project task:
+
+Below task visualization uses direct link to
+https://github.com/supponor/dbrlive/issues/99
+
+==== Display options
+
+https://github.com/supponor/dbrlive/issues/99
+
+Display URL
+
+https://github.com/supponor/dbrlive/issues/99
+
+Display inline
+
+https://github.com/supponor/dbrlive/issues/99
+
+Display card
+
+https://github.com/supponor/dbrlive/issues/99
+
+=== List of Github issues with specific label
+
+=== The list of the latest pull requests
+
+Below list uses following direct link
+
+Display URL
+
+https://github.com/microsoft/team-explorer-everywhere/pulls
+
+Display inline
+
+https://github.com/microsoft/team-explorer-everywhere/pulls
+
+Display card
+
+https://github.com/microsoft/team-explorer-everywhere/pulls
+
+https://github.com/supponor/dbrlive/pulls
+
+https://github.com/supponor/dbrlive/pulls
+
+https://github.com/facebook/react/issues[test to issues]
+
+https://github.com/facebook/react/issues
+
+https://developer.github.com/v3/issues/#list-issues-for-a-repository
+
+https://github.com/facebook/react/releases
