@@ -1,0 +1,94 @@
+Renderer bypass at  106 s
+Renderer bypass at  107 s
+Renderer bypass at  108 s
+Renderer bypass at  109 s
+Renderer bypass at  110 s
+Renderer bypass at  111 s
+Renderer bypass at  112 s
+Renderer bypass at  113 s
+Renderer bypass at  114 s
+Renderer bypass at  115 s
+Renderer bypass at  116 s
+Renderer bypass at  117 s
+Renderer bypass at  118 s
+Renderer bypass at  119 s
+Renderer bypass at  120 s
+Renderer bypass at  121 s
+Renderer bypass at  122 s
+Renderer bypass at  123 s
+Renderer bypass at  124 s
+Renderer bypass at  125 s
+Renderer bypass at  126 s
+Renderer bypass at  127 s
+Renderer bypass at  128 s
+Renderer bypass at  129 s
+Renderer bypass at  130 s
+Renderer bypass at  131 s
+Renderer bypass at  132 s
+Renderer bypass at  133 s
+Renderer bypass at  134 s
+Renderer bypass at  135 s
+Renderer bypass at  136 s
+Renderer bypass at  137 s
+Renderer bypass at  138 s
+Renderer bypass at  139 s
+Renderer bypass at  140 s
+Renderer bypass at  141 s
+Renderer bypass at  142 s
+Renderer bypass at  143 s
+Renderer bypass at  144 s
+Renderer bypass at  145 s
+Tracer manual bypass at  3371 s
+Tracer manual bypass at  3372 s
+Tracer manual bypass at  3373 s
+Tracer manual bypass at  3374 s
+Tracer manual bypass at  3375 s
+Tracer manual bypass at  3376 s
+Tracer manual bypass at  3377 s
+Tracer manual bypass at  3378 s
+Tracer auto-zoom bypass at  3782 s
+Tracer auto-zoom bypass at  3783 s
+Tracer auto-zoom bypass at  3784 s
+Tracer auto-zoom bypass at  3785 s
+Tracer manual bypass at  6528 s
+Tracer manual bypass at  6529 s
+Tracer manual bypass at  6530 s
+Tracer manual bypass at  6531 s
+Tracer manual bypass at  6532 s
+Tracer auto-tracking bypass at  7415 s
+Tracer auto-tracking bypass at  8057 s
+Tracer auto-tracking bypass at  8058 s
+Tracer auto-tracking bypass at  8062 s
+Tracer auto-tracking bypass at  8063 s
+Tracer auto-zoom bypass at  8677 s
+Tracer auto-zoom bypass at  8678 s
+Tracer auto-zoom bypass at  8954 s
+Tracer auto-zoom bypass at  8955 s
+Tracer auto-tracking bypass at  8956 s
+Tracer auto-zoom bypass at  8956 s
+Tracer auto-tracking bypass at  8957 s
+----------------
+Processed file: MIN @ COL 2022-09-28_Home RSN_000000-NAT-20221005-195617-record.json
+Match name  MIN @ COL 2022-09-28
+Output feed  Home RSN
+Recording start time  2022-10-06T01:47:32.087630Z
+End time (s)  8958
+End time (min)  149
+----------------
+System up time calculations:
+Total system up time (s) 8890
+Total system up time (min) 148
+Total system up time (%) 99.33
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 40
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  7
+- Tracer manual bypass time (s)  13
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  9
+----------------
+Non-Supponor camera on air time (s)  5594
+----------------
+Game clock not detected

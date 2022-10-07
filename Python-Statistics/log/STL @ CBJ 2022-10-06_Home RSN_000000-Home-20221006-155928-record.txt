@@ -1,0 +1,377 @@
+Tracer manual bypass at  1 s
+Tracer manual bypass at  2 s
+Tracer auto-tracking bypass at  13 s
+Tracer auto-tracking bypass at  14 s
+Tracer manual bypass at  15 s
+Tracer manual bypass at  16 s
+Renderer bypass at  37 s
+Renderer bypass at  38 s
+Renderer bypass at  39 s
+Renderer bypass at  40 s
+Renderer bypass at  41 s
+Renderer bypass at  42 s
+Renderer bypass at  43 s
+Renderer bypass at  44 s
+Renderer bypass at  45 s
+Renderer bypass at  46 s
+Renderer bypass at  47 s
+Renderer bypass at  48 s
+Renderer bypass at  49 s
+Renderer bypass at  50 s
+Renderer bypass at  51 s
+Renderer bypass at  52 s
+Renderer bypass at  53 s
+Renderer bypass at  54 s
+Renderer bypass at  55 s
+Renderer bypass at  56 s
+Renderer bypass at  57 s
+Renderer bypass at  58 s
+Tracer auto-zoom bypass at  63 s
+Tracer auto-zoom bypass at  64 s
+Tracer auto-zoom bypass at  65 s
+Tracer auto-zoom bypass at  66 s
+Tracer auto-zoom bypass at  67 s
+Tracer auto-zoom bypass at  68 s
+Tracer auto-zoom bypass at  69 s
+Tracer auto-zoom bypass at  79 s
+Tracer auto-tracking bypass at  80 s
+Tracer auto-zoom bypass at  80 s
+Tracer auto-tracking bypass at  81 s
+Tracer auto-zoom bypass at  81 s
+Tracer auto-zoom bypass at  82 s
+Tracer auto-zoom bypass at  198 s
+Tracer auto-zoom bypass at  199 s
+Tracer auto-tracking bypass at  200 s
+Tracer auto-zoom bypass at  200 s
+Tracer auto-tracking bypass at  201 s
+Tracer auto-tracking bypass at  202 s
+Tracer auto-tracking bypass at  203 s
+Tracer auto-tracking bypass at  204 s
+Tracer auto-tracking bypass at  205 s
+Tracer auto-tracking bypass at  206 s
+Tracer auto-tracking bypass at  207 s
+Tracer auto-tracking bypass at  208 s
+Tracer auto-tracking bypass at  209 s
+Tracer auto-zoom bypass at  333 s
+Tracer auto-zoom bypass at  334 s
+Tracer auto-tracking bypass at  655 s
+Tracer auto-tracking bypass at  656 s
+Tracer auto-tracking bypass at  657 s
+Tracer auto-tracking bypass at  658 s
+Tracer auto-tracking bypass at  659 s
+Tracer auto-tracking bypass at  660 s
+Tracer auto-tracking bypass at  661 s
+Tracer auto-zoom bypass at  1170 s
+Tracer auto-zoom bypass at  1171 s
+Tracer auto-zoom bypass at  1176 s
+Tracer auto-zoom bypass at  1177 s
+Tracer auto-tracking bypass at  1178 s
+Tracer auto-zoom bypass at  1178 s
+Tracer auto-tracking bypass at  1179 s
+Tracer auto-zoom bypass at  1179 s
+Tracer auto-zoom bypass at  1180 s
+Tracer auto-zoom bypass at  1181 s
+Tracer auto-zoom bypass at  1182 s
+Tracer auto-tracking bypass at  1183 s
+Tracer auto-zoom bypass at  1183 s
+Tracer auto-zoom bypass at  1429 s
+Tracer auto-zoom bypass at  1430 s
+Tracer auto-zoom bypass at  1431 s
+Tracer auto-zoom bypass at  1432 s
+Tracer auto-zoom bypass at  1433 s
+Tracer auto-tracking bypass at  1434 s
+Tracer auto-zoom bypass at  1434 s
+Tracer auto-zoom bypass at  1435 s
+Tracer auto-zoom bypass at  1438 s
+Tracer auto-zoom bypass at  1439 s
+Tracer auto-zoom bypass at  1440 s
+Tracer auto-zoom bypass at  1441 s
+Tracer auto-zoom bypass at  1450 s
+Tracer auto-zoom bypass at  1451 s
+Tracer auto-zoom bypass at  1452 s
+Tracer auto-zoom bypass at  1453 s
+Tracer auto-zoom bypass at  1860 s
+Tracer auto-zoom bypass at  1861 s
+Tracer auto-zoom bypass at  1862 s
+Tracer auto-zoom bypass at  1863 s
+Tracer auto-zoom bypass at  1864 s
+Tracer auto-zoom bypass at  1865 s
+Tracer auto-zoom bypass at  1866 s
+Tracer auto-zoom bypass at  1867 s
+Tracer auto-zoom bypass at  1868 s
+Tracer auto-zoom bypass at  1869 s
+Tracer auto-zoom bypass at  1870 s
+Tracer auto-zoom bypass at  1871 s
+Tracer auto-zoom bypass at  1872 s
+Tracer auto-zoom bypass at  1892 s
+Tracer auto-zoom bypass at  1893 s
+Tracer auto-zoom bypass at  1894 s
+Tracer auto-zoom bypass at  1895 s
+Tracer manual bypass at  2940 s
+Tracer manual bypass at  2941 s
+Tracer manual bypass at  2942 s
+Tracer manual bypass at  2943 s
+Tracer manual bypass at  2944 s
+Tracer manual bypass at  2945 s
+Tracer manual bypass at  2946 s
+Tracer manual bypass at  2947 s
+Tracer manual bypass at  2948 s
+Tracer manual bypass at  2949 s
+Tracer manual bypass at  2950 s
+Tracer manual bypass at  2951 s
+Tracer manual bypass at  2952 s
+Tracer manual bypass at  2953 s
+Tracer manual bypass at  2954 s
+Tracer manual bypass at  2955 s
+Tracer auto-zoom bypass at  3585 s
+Tracer auto-zoom bypass at  3586 s
+Tracer auto-zoom bypass at  3587 s
+Tracer auto-zoom bypass at  3588 s
+Tracer auto-zoom bypass at  3589 s
+Tracer auto-zoom bypass at  3590 s
+Tracer auto-zoom bypass at  3591 s
+Tracer auto-zoom bypass at  3595 s
+Tracer auto-zoom bypass at  3596 s
+Tracer auto-zoom bypass at  3597 s
+Tracer auto-zoom bypass at  3598 s
+Tracer auto-zoom bypass at  3599 s
+Tracer auto-zoom bypass at  3788 s
+Tracer auto-zoom bypass at  3789 s
+Tracer auto-zoom bypass at  3790 s
+Tracer auto-tracking bypass at  3791 s
+Tracer auto-zoom bypass at  3791 s
+Tracer auto-zoom bypass at  3792 s
+Tracer auto-zoom bypass at  3793 s
+Tracer auto-tracking bypass at  3794 s
+Tracer auto-zoom bypass at  3794 s
+Tracer auto-tracking bypass at  3795 s
+Tracer auto-zoom bypass at  3795 s
+Tracer auto-zoom bypass at  3796 s
+Tracer auto-zoom bypass at  3797 s
+Tracer auto-zoom bypass at  3798 s
+Tracer auto-zoom bypass at  3799 s
+Tracer auto-zoom bypass at  3800 s
+Tracer auto-tracking bypass at  3801 s
+Tracer auto-zoom bypass at  3801 s
+Tracer auto-tracking bypass at  3802 s
+Tracer auto-zoom bypass at  3802 s
+Tracer auto-zoom bypass at  3803 s
+Tracer auto-tracking bypass at  3804 s
+Tracer auto-zoom bypass at  3804 s
+Tracer auto-tracking bypass at  3805 s
+Tracer auto-zoom bypass at  3805 s
+Tracer auto-tracking bypass at  3806 s
+Tracer auto-zoom bypass at  3806 s
+Tracer auto-tracking bypass at  3807 s
+Tracer auto-tracking bypass at  3808 s
+Tracer auto-tracking bypass at  3809 s
+Tracer auto-tracking bypass at  3810 s
+Tracer auto-tracking bypass at  3811 s
+Tracer auto-tracking bypass at  3812 s
+Tracer auto-tracking bypass at  3813 s
+Tracer auto-zoom bypass at  3813 s
+Tracer auto-tracking bypass at  3814 s
+Tracer auto-zoom bypass at  3814 s
+Tracer auto-zoom bypass at  4356 s
+Tracer auto-zoom bypass at  4357 s
+Tracer auto-zoom bypass at  4358 s
+Tracer auto-zoom bypass at  4359 s
+Tracer auto-zoom bypass at  4360 s
+Tracer auto-zoom bypass at  4361 s
+Tracer auto-zoom bypass at  4362 s
+Tracer auto-zoom bypass at  4365 s
+Tracer auto-zoom bypass at  4366 s
+Tracer auto-zoom bypass at  4367 s
+Tracer auto-zoom bypass at  4368 s
+Tracer auto-tracking bypass at  4369 s
+Tracer auto-zoom bypass at  4369 s
+Tracer auto-tracking bypass at  4370 s
+Tracer auto-zoom bypass at  4370 s
+Tracer auto-zoom bypass at  4674 s
+Tracer auto-zoom bypass at  4675 s
+Tracer auto-zoom bypass at  4676 s
+Tracer auto-zoom bypass at  4677 s
+Tracer auto-zoom bypass at  4678 s
+Tracer auto-zoom bypass at  4679 s
+Tracer auto-zoom bypass at  4680 s
+Tracer auto-zoom bypass at  4681 s
+Tracer auto-zoom bypass at  4682 s
+Tracer auto-zoom bypass at  4683 s
+Tracer auto-zoom bypass at  4684 s
+Tracer auto-zoom bypass at  4685 s
+Tracer auto-zoom bypass at  4686 s
+Tracer auto-zoom bypass at  4687 s
+Tracer auto-zoom bypass at  4688 s
+Tracer auto-zoom bypass at  4689 s
+Tracer auto-zoom bypass at  4714 s
+Tracer auto-zoom bypass at  4715 s
+Tracer auto-zoom bypass at  4716 s
+Tracer auto-zoom bypass at  4717 s
+Tracer auto-zoom bypass at  4718 s
+Tracer auto-zoom bypass at  4719 s
+Tracer auto-zoom bypass at  4720 s
+Tracer auto-zoom bypass at  4721 s
+Tracer auto-zoom bypass at  4722 s
+Tracer auto-zoom bypass at  4723 s
+Tracer auto-zoom bypass at  4724 s
+Tracer auto-zoom bypass at  4725 s
+Tracer auto-zoom bypass at  4726 s
+Tracer auto-zoom bypass at  4727 s
+Tracer auto-tracking bypass at  4728 s
+Tracer auto-zoom bypass at  4728 s
+Tracer auto-tracking bypass at  4729 s
+Tracer auto-tracking bypass at  4730 s
+Tracer auto-tracking bypass at  4731 s
+Tracer auto-tracking bypass at  4732 s
+Tracer manual bypass at  5147 s
+Tracer manual bypass at  5148 s
+Tracer manual bypass at  5149 s
+Tracer manual bypass at  5150 s
+Tracer manual bypass at  5151 s
+Tracer manual bypass at  5152 s
+Tracer manual bypass at  5153 s
+Tracer manual bypass at  5203 s
+Tracer manual bypass at  5204 s
+Tracer manual bypass at  5205 s
+Tracer manual bypass at  5206 s
+Tracer manual bypass at  5207 s
+Tracer manual bypass at  5208 s
+Tracer manual bypass at  5209 s
+Tracer manual bypass at  5210 s
+Tracer manual bypass at  5211 s
+Tracer manual bypass at  5212 s
+Tracer manual bypass at  5213 s
+Tracer manual bypass at  5214 s
+Tracer manual bypass at  5215 s
+Tracer manual bypass at  5216 s
+Tracer manual bypass at  5217 s
+Tracer manual bypass at  5218 s
+Tracer manual bypass at  5219 s
+Tracer manual bypass at  5220 s
+Tracer manual bypass at  5221 s
+Tracer manual bypass at  5222 s
+Tracer manual bypass at  5223 s
+Tracer manual bypass at  5224 s
+Tracer manual bypass at  5225 s
+Tracer manual bypass at  5226 s
+Tracer manual bypass at  5227 s
+Tracer manual bypass at  5228 s
+Tracer manual bypass at  5229 s
+Tracer manual bypass at  5230 s
+Tracer manual bypass at  5231 s
+Tracer manual bypass at  5270 s
+Tracer manual bypass at  5271 s
+Tracer manual bypass at  5272 s
+Tracer manual bypass at  5273 s
+Tracer manual bypass at  5274 s
+Tracer manual bypass at  5275 s
+Tracer manual bypass at  5276 s
+Tracer manual bypass at  5277 s
+Tracer manual bypass at  5278 s
+Tracer manual bypass at  5279 s
+Tracer manual bypass at  5280 s
+Tracer manual bypass at  5281 s
+Tracer manual bypass at  5282 s
+Tracer manual bypass at  5283 s
+Tracer manual bypass at  5291 s
+Tracer manual bypass at  5292 s
+Tracer manual bypass at  5293 s
+Tracer manual bypass at  5294 s
+Tracer manual bypass at  5295 s
+Tracer manual bypass at  5296 s
+Tracer manual bypass at  5297 s
+Tracer manual bypass at  5298 s
+Tracer manual bypass at  5299 s
+Tracer manual bypass at  5300 s
+Tracer manual bypass at  5301 s
+Tracer manual bypass at  6122 s
+Tracer manual bypass at  6123 s
+Tracer manual bypass at  6124 s
+Tracer manual bypass at  6125 s
+Tracer manual bypass at  6126 s
+Tracer manual bypass at  6127 s
+Tracer manual bypass at  6128 s
+Tracer manual bypass at  6129 s
+Tracer manual bypass at  6130 s
+Tracer manual bypass at  6131 s
+Tracer manual bypass at  6132 s
+Tracer manual bypass at  6133 s
+Tracer manual bypass at  6134 s
+Tracer manual bypass at  6135 s
+Tracer manual bypass at  6136 s
+Tracer manual bypass at  6137 s
+Tracer manual bypass at  6138 s
+Tracer auto-zoom bypass at  6747 s
+Tracer auto-zoom bypass at  6748 s
+Tracer auto-zoom bypass at  6749 s
+Tracer auto-zoom bypass at  6750 s
+Tracer auto-zoom bypass at  6751 s
+Tracer auto-zoom bypass at  6752 s
+Tracer auto-zoom bypass at  6753 s
+Tracer auto-zoom bypass at  6761 s
+Tracer auto-tracking bypass at  6762 s
+Tracer auto-zoom bypass at  6762 s
+Tracer auto-tracking bypass at  6763 s
+Tracer auto-tracking bypass at  6764 s
+Tracer auto-zoom bypass at  6764 s
+Tracer auto-zoom bypass at  6986 s
+Tracer auto-zoom bypass at  6987 s
+Tracer auto-zoom bypass at  6988 s
+Tracer auto-zoom bypass at  6989 s
+Tracer auto-zoom bypass at  6990 s
+Tracer auto-zoom bypass at  6991 s
+Tracer auto-zoom bypass at  6992 s
+Tracer auto-zoom bypass at  7002 s
+Tracer auto-tracking bypass at  7491 s
+Tracer auto-tracking bypass at  7492 s
+Tracer auto-tracking bypass at  7493 s
+Tracer auto-tracking bypass at  7494 s
+Tracer auto-tracking bypass at  7495 s
+Tracer auto-zoom bypass at  7495 s
+Tracer auto-tracking bypass at  7496 s
+Tracer auto-zoom bypass at  7496 s
+Tracer auto-tracking bypass at  7497 s
+Tracer auto-tracking bypass at  7498 s
+Tracer auto-tracking bypass at  7499 s
+Tracer auto-tracking bypass at  7500 s
+Tracer auto-tracking bypass at  7501 s
+Tracer auto-tracking bypass at  7502 s
+Tracer auto-zoom bypass at  8215 s
+Tracer auto-zoom bypass at  8216 s
+Tracer auto-zoom bypass at  8217 s
+Tracer auto-zoom bypass at  8218 s
+Tracer auto-zoom bypass at  8219 s
+Tracer auto-zoom bypass at  8220 s
+Tracer auto-zoom bypass at  8221 s
+Tracer auto-zoom bypass at  8222 s
+Tracer auto-zoom bypass at  8223 s
+Tracer manual bypass at  8223 s
+Tracer manual bypass at  8224 s
+Tracer manual bypass at  8225 s
+Tracer manual bypass at  8226 s
+Tracer manual bypass at  8227 s
+----------------
+Processed file: STL @ CBJ 2022-10-06_Home RSN_000000-Home-20221006-155928-record.json
+Match name  STL @ CBJ 2022-10-06
+Output feed  Home RSN
+Recording start time  2022-10-07T00:03:44.609983Z
+End time (s)  8230
+End time (min)  137
+----------------
+System up time calculations:
+Total system up time (s) 8035
+Total system up time (min) 134
+Total system up time (%) 97.71
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 22
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  63
+- Tracer manual bypass time (s)  103
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  164
+----------------
+Non-Supponor camera on air time (s)  4178
+----------------
+Game clock detected

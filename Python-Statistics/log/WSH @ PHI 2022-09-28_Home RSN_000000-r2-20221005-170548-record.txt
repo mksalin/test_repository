@@ -1,0 +1,25 @@
+----------------
+Processed file: WSH @ PHI 2022-09-28_Home RSN_000000-r2-20221005-170548-record.json
+Match name  WSH @ PHI 2022-09-28
+Output feed  Home RSN
+Recording start time  2022-10-05T14:06:46.861211Z
+End time (s)  1088
+End time (min)  18
+----------------
+System up time calculations:
+Total system up time (s) 1089
+Total system up time (min) 18
+Total system up time (%) 100.0
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  0
+- Tracer manual bypass time (s)  0
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  0
+----------------
+Non-Supponor camera on air time (s)  0
+----------------
+Game clock not detected

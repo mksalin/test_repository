@@ -1,0 +1,109 @@
+Integrator bypass at  0 s
+Integrator bypass at  1 s
+Integrator bypass at  2 s
+Integrator bypass at  3 s
+Integrator bypass at  4 s
+Integrator bypass at  5 s
+Integrator bypass at  6 s
+Integrator bypass at  7 s
+Integrator bypass at  8 s
+Integrator bypass at  9 s
+Integrator bypass at  10 s
+Integrator bypass at  11 s
+Integrator bypass at  12 s
+Integrator bypass at  13 s
+Integrator bypass at  14 s
+Integrator bypass at  15 s
+Integrator bypass at  16 s
+Integrator bypass at  17 s
+Integrator bypass at  18 s
+Integrator bypass at  19 s
+Integrator bypass at  20 s
+Integrator bypass at  21 s
+Integrator bypass at  22 s
+Integrator bypass at  23 s
+Integrator bypass at  24 s
+Integrator bypass at  25 s
+Integrator bypass at  26 s
+Integrator bypass at  27 s
+Integrator bypass at  28 s
+Integrator bypass at  29 s
+Integrator bypass at  30 s
+Integrator bypass at  31 s
+Integrator bypass at  32 s
+Integrator bypass at  33 s
+Integrator bypass at  34 s
+Integrator bypass at  35 s
+Integrator bypass at  36 s
+Integrator bypass at  37 s
+Integrator bypass at  38 s
+Integrator bypass at  39 s
+Integrator bypass at  40 s
+Integrator bypass at  41 s
+Integrator bypass at  42 s
+Integrator bypass at  43 s
+Integrator bypass at  44 s
+Integrator bypass at  45 s
+Integrator bypass at  46 s
+Integrator bypass at  47 s
+Integrator bypass at  48 s
+Integrator bypass at  49 s
+Integrator bypass at  50 s
+Integrator bypass at  51 s
+Integrator bypass at  52 s
+Integrator bypass at  53 s
+Integrator bypass at  54 s
+Integrator bypass at  55 s
+Tracer auto-zoom bypass at  69 s
+Tracer auto-zoom bypass at  70 s
+Tracer auto-zoom bypass at  71 s
+Tracer auto-zoom bypass at  72 s
+Tracer auto-zoom bypass at  73 s
+Tracer auto-zoom bypass at  74 s
+Tracer auto-zoom bypass at  299 s
+Tracer auto-tracking bypass at  300 s
+Tracer auto-zoom bypass at  300 s
+Tracer auto-tracking bypass at  301 s
+Tracer auto-zoom bypass at  1944 s
+Tracer auto-zoom bypass at  1945 s
+Tracer auto-zoom bypass at  1946 s
+Tracer auto-zoom bypass at  3365 s
+Tracer auto-zoom bypass at  3366 s
+Tracer auto-zoom bypass at  3367 s
+Tracer auto-zoom bypass at  3368 s
+Tracer auto-zoom bypass at  4116 s
+Tracer auto-zoom bypass at  4117 s
+Tracer auto-zoom bypass at  4118 s
+Tracer auto-zoom bypass at  5079 s
+Tracer auto-tracking bypass at  5568 s
+Tracer auto-tracking bypass at  5569 s
+Tracer auto-tracking bypass at  5570 s
+Tracer auto-zoom bypass at  7190 s
+Tracer auto-zoom bypass at  7191 s
+Tracer auto-zoom bypass at  7192 s
+Tracer auto-tracking bypass at  7777 s
+----------------
+Processed file: NJD @ NYR 2022-09-29_Home RSN_000000-TNT_National-20221005-144153-record.json
+Match name  NJD @ NYR 2022-09-29
+Output feed  Home RSN
+Recording start time  2022-10-05T23:03:09.065236Z
+End time (s)  8610
+End time (min)  143
+----------------
+System up time calculations:
+Total system up time (s) 8540
+Total system up time (min) 142
+Total system up time (%) 99.28
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  56
+- Tracer auto tracking bypass time (s)  6
+- Tracer manual bypass time (s)  0
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  22
+----------------
+Non-Supponor camera on air time (s)  5079
+----------------
+Game clock detected

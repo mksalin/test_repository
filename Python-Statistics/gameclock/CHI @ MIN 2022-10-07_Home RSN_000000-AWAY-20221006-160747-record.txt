@@ -1,0 +1,57 @@
+Tracer auto-zoom bypass at  844 s
+Tracer auto-zoom bypass at  845 s
+Tracer auto-zoom bypass at  846 s
+Tracer auto-zoom bypass at  889 s
+Tracer auto-tracking bypass at  890 s
+Tracer auto-zoom bypass at  890 s
+Tracer auto-tracking bypass at  891 s
+Tracer auto-zoom bypass at  1105 s
+Tracer auto-tracking bypass at  1106 s
+Tracer auto-zoom bypass at  1106 s
+Tracer auto-zoom bypass at  4515 s
+Tracer auto-zoom bypass at  4516 s
+Tracer auto-zoom bypass at  4517 s
+Tracer auto-tracking bypass at  4599 s
+Tracer auto-tracking bypass at  4600 s
+Tracer auto-tracking bypass at  4601 s
+Tracer auto-tracking bypass at  4602 s
+Tracer auto-tracking bypass at  4603 s
+Tracer auto-tracking bypass at  4604 s
+Tracer auto-tracking bypass at  4808 s
+Tracer auto-tracking bypass at  4809 s
+Tracer auto-tracking bypass at  4810 s
+Tracer auto-zoom bypass at  6841 s
+Tracer auto-zoom bypass at  6842 s
+Tracer auto-zoom bypass at  7353 s
+Tracer auto-zoom bypass at  7354 s
+Tracer auto-zoom bypass at  7355 s
+Tracer auto-zoom bypass at  7356 s
+Tracer auto-zoom bypass at  7357 s
+Tracer auto-zoom bypass at  7358 s
+Tracer auto-zoom bypass at  7359 s
+Tracer auto-zoom bypass at  7360 s
+----------------
+Processed file: CHI @ MIN 2022-10-07_Home RSN_000000-AWAY-20221006-160747-record.json
+Match name  CHI @ MIN 2022-10-07
+Output feed  Home RSN
+Recording start time  2022-10-07T00:08:36.945383Z
+End time (s)  8284
+End time (min)  138
+----------------
+System up time calculations:
+Total system up time (s) 8265
+Total system up time (min) 138
+Total system up time (%) 99.86
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  12
+- Tracer manual bypass time (s)  0
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  20
+----------------
+Non-Supponor camera on air time (s)  4485
+----------------
+Game clock detected

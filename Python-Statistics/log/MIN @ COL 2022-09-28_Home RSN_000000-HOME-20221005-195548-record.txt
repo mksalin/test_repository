@@ -1,0 +1,90 @@
+Tracer manual bypass at  3371 s
+Tracer manual bypass at  3372 s
+Tracer manual bypass at  3373 s
+Tracer manual bypass at  3374 s
+Tracer manual bypass at  3375 s
+Tracer manual bypass at  3376 s
+Tracer manual bypass at  3377 s
+Tracer manual bypass at  3378 s
+Tracer auto-zoom bypass at  3782 s
+Tracer auto-zoom bypass at  3783 s
+Tracer auto-zoom bypass at  3784 s
+Tracer auto-zoom bypass at  3785 s
+Tracer manual bypass at  6528 s
+Tracer manual bypass at  6529 s
+Tracer manual bypass at  6530 s
+Tracer manual bypass at  6531 s
+Tracer manual bypass at  6532 s
+Tracer auto-tracking bypass at  7415 s
+Tracer auto-tracking bypass at  8057 s
+Tracer auto-tracking bypass at  8058 s
+Tracer auto-tracking bypass at  8061 s
+Tracer auto-tracking bypass at  8062 s
+Tracer auto-tracking bypass at  8063 s
+Tracer auto-zoom bypass at  8677 s
+Tracer auto-zoom bypass at  8678 s
+Tracer auto-zoom bypass at  8954 s
+Tracer auto-zoom bypass at  8955 s
+Tracer auto-tracking bypass at  8956 s
+Tracer auto-zoom bypass at  8956 s
+Tracer auto-tracking bypass at  8957 s
+Integrator bypass at  8965 s
+Integrator bypass at  8966 s
+Integrator bypass at  8967 s
+Integrator bypass at  8968 s
+Integrator bypass at  8969 s
+Integrator bypass at  8970 s
+Integrator bypass at  8971 s
+Integrator bypass at  8972 s
+Integrator bypass at  8973 s
+Integrator bypass at  8974 s
+Integrator bypass at  8975 s
+Integrator bypass at  8976 s
+Integrator bypass at  8977 s
+Integrator bypass at  8978 s
+Integrator bypass at  8979 s
+Integrator bypass at  8980 s
+Integrator bypass at  8981 s
+Integrator bypass at  8982 s
+Integrator bypass at  8983 s
+Integrator bypass at  8984 s
+Integrator bypass at  8985 s
+Integrator bypass at  8986 s
+Integrator bypass at  8987 s
+Integrator bypass at  8988 s
+Integrator bypass at  8989 s
+Integrator bypass at  8990 s
+Integrator bypass at  8991 s
+Integrator bypass at  8992 s
+Integrator bypass at  8993 s
+Integrator bypass at  8994 s
+Integrator bypass at  8995 s
+Integrator bypass at  8996 s
+Integrator bypass at  8997 s
+Integrator bypass at  8998 s
+Integrator bypass at  8999 s
+----------------
+Processed file: MIN @ COL 2022-09-28_Home RSN_000000-HOME-20221005-195548-record.json
+Match name  MIN @ COL 2022-09-28
+Output feed  Home RSN
+Recording start time  2022-10-06T01:47:34.009782Z
+End time (s)  8999
+End time (min)  150
+----------------
+System up time calculations:
+Total system up time (s) 8935
+Total system up time (min) 149
+Total system up time (%) 99.38
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  35
+- Tracer auto tracking bypass time (s)  8
+- Tracer manual bypass time (s)  13
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  9
+----------------
+Non-Supponor camera on air time (s)  5634
+----------------
+Game clock not detected

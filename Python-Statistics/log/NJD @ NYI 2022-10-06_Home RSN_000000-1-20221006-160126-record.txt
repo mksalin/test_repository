@@ -1,0 +1,42 @@
+Tracer auto-zoom bypass at  922 s
+Tracer auto-zoom bypass at  923 s
+Tracer auto-zoom bypass at  924 s
+Tracer auto-zoom bypass at  1953 s
+Tracer auto-zoom bypass at  1954 s
+Tracer auto-zoom bypass at  1955 s
+Tracer auto-zoom bypass at  2143 s
+Tracer auto-zoom bypass at  2144 s
+Tracer auto-zoom bypass at  2145 s
+Tracer auto-zoom bypass at  5075 s
+Tracer auto-zoom bypass at  5076 s
+Tracer auto-zoom bypass at  5077 s
+Tracer auto-tracking bypass at  6911 s
+Tracer auto-tracking bypass at  6912 s
+Tracer auto-tracking bypass at  7637 s
+Tracer auto-tracking bypass at  7638 s
+Tracer auto-tracking bypass at  7639 s
+----------------
+Processed file: NJD @ NYI 2022-10-06_Home RSN_000000-1-20221006-160126-record.json
+Match name  NJD @ NYI 2022-10-06
+Output feed  Home RSN
+Recording start time  2022-10-06T23:07:49.135271Z
+End time (s)  8743
+End time (min)  146
+----------------
+System up time calculations:
+Total system up time (s) 8730
+Total system up time (min) 146
+Total system up time (%) 99.94
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  5
+- Tracer manual bypass time (s)  0
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  12
+----------------
+Non-Supponor camera on air time (s)  5116
+----------------
+Game clock detected

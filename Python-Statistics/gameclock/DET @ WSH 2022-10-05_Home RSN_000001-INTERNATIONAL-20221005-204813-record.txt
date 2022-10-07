@@ -1,0 +1,41 @@
+Tracer manual bypass at  11 s
+Tracer manual bypass at  12 s
+Tracer manual bypass at  13 s
+Tracer manual bypass at  14 s
+Tracer manual bypass at  15 s
+Tracer manual bypass at  16 s
+Tracer manual bypass at  17 s
+Tracer auto-zoom bypass at  1902 s
+Tracer auto-zoom bypass at  1903 s
+Tracer auto-zoom bypass at  1904 s
+Tracer auto-zoom bypass at  1905 s
+Tracer auto-tracking bypass at  1918 s
+Tracer auto-zoom bypass at  1918 s
+Tracer auto-zoom bypass at  1919 s
+Tracer auto-zoom bypass at  1920 s
+Tracer auto-zoom bypass at  1921 s
+----------------
+Processed file: DET @ WSH 2022-10-05_Home RSN_000001-INTERNATIONAL-20221005-204813-record.json
+Match name  DET @ WSH 2022-10-05
+Output feed  Home RSN
+Recording start time  2022-10-06T00:56:58.231383Z
+End time (s)  2513
+End time (min)  42
+----------------
+System up time calculations:
+Total system up time (s) 2503
+Total system up time (min) 42
+Total system up time (%) 99.68
+----------------
+Bypass summary which affects up time calculations:
+- Total Renderer bypass time (s) 0
+- Total Integrator_bypass time (s)  0
+- Tracer auto tracking bypass time (s)  1
+- Tracer manual bypass time (s)  7
+----------------
+Bypass summary which does not affect up time calculations:
+- Tracer auto zoom bypass time (s)  8
+----------------
+Non-Supponor camera on air time (s)  1248
+----------------
+Game clock detected
